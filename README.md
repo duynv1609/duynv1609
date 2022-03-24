@@ -1,4 +1,4 @@
-# Hi, I’m Duy!   <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+# Hi, I’m Duy!   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="128px" height="64px" alt="typing">
 <a href=https://www.linkedin.com/in/duyynv/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=duynv1609&color=blue">
 
 👨 My name is Duy and I'm studying Computer Science at University of Greenwich. I'm from Vietnam and my goal is to become a Software Engineer.
